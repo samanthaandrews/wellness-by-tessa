@@ -129,6 +129,9 @@ footer {
 footer > p {
   font-size: 0.8rem;
 }
+p > em {
+  font-weight: bold;
+}
 pre,
 code {
   font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
